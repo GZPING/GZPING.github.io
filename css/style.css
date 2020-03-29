@@ -375,7 +375,7 @@ list-style:none;
 }
 .clients-list li{
 float:left;
-width:25%;
+width:33.33%;
 }
 .clients-list li img{
 height:auto;
